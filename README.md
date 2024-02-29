@@ -17,4 +17,4 @@ is transferred to client.
 
 ![img.png](img.png)
 
-However, when you set preRender to `true`. The server stops transferring value client.
+However, when you set preRender to `true`. The server stops transferring value to client.
