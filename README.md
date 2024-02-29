@@ -7,7 +7,7 @@ Example of TransferState from Server (server.ts) to Client (Angular Component)
 > Had to set preRender is set to `false` in angular.json 
 
 1. ng build
-2. serve:ssr:angular-ssr
+2. npm run serve:ssr:angular-ssr
 
 value set on server in the provider:
 
