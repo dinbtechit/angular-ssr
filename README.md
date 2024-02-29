@@ -9,11 +9,11 @@ Example of TransferState from Server (server.ts) to Client (Angular Component)
 1. ng build
 2. serve:ssr:angular-ssr
 
-value set on server in the provide:
+value set on server in the provider:
 
 ![img_1.png](img_1.png)
 
-is transfer to client.
+is transferred to client.
 
 ![img.png](img.png)
 
